@@ -17,6 +17,7 @@ Each solution includes:
 |---|-------|-----------|----------|
 | 70 | Climbing Stairs | Easy | [Java](solutions/0070-climbing-stairs/Solution.java) |
 | 1381 | Design a Stack with Increment Operation | Medium | [Java](solutions/1381-design-stack-with-increment-operation/CustomStack.java) |
+| 1441 | Build an Array with Stack Operations | Medium | [Java](solutions/1441-build-array-with-stack-operations/Solution.java) |
 
 ## Languages Used
 
@@ -24,7 +25,7 @@ Each solution includes:
 
 ## Progress
 
-Total Problems Solved: 2
+Total Problems Solved: 3
 
 ---
 

@@ -15,6 +15,7 @@ Each solution includes:
 
 | # | Title | Difficulty | Solution |
 |---|-------|-----------|----------|
+| 9 | Palindrome Number | Easy | [Java](solutions/0009-palindrome-number/Solution.java) |
 | 70 | Climbing Stairs | Easy | [Java](solutions/0070-climbing-stairs/Solution.java) |
 | 946 | Validate Stack Sequences | Medium | [Java](solutions/0946-validate-stack-sequences/Solution.java) |
 | 1381 | Design a Stack with Increment Operation | Medium | [Java](solutions/1381-design-stack-with-increment-operation/CustomStack.java) |
@@ -26,7 +27,7 @@ Each solution includes:
 
 ## Progress
 
-Total Problems Solved: 4
+Total Problems Solved: 5
 
 ---
 

@@ -16,6 +16,7 @@ Each solution includes:
 | # | Title | Difficulty | Solution |
 |---|-------|-----------|----------|
 | 9 | Palindrome Number | Easy | [Java](solutions/0009-palindrome-number/Solution.java) |
+| 35 | Search Insert Position | Easy | [Java](solutions/0035-search-insert-position/Solution.java) |
 | 70 | Climbing Stairs | Easy | [Java](solutions/0070-climbing-stairs/Solution.java) |
 | 258 | Add Digits | Easy | [Java](solutions/0258-add-digits/Solution.java) |
 | 946 | Validate Stack Sequences | Medium | [Java](solutions/0946-validate-stack-sequences/Solution.java) |
@@ -28,7 +29,7 @@ Each solution includes:
 
 ## Progress
 
-Total Problems Solved: 6
+Total Problems Solved: 7
 
 ---
 

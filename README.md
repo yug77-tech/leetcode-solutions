@@ -1,37 +1,62 @@
-# LeetCode Solutions
+# 🧑‍💻 LeetCode Solutions
 
-This repository contains my daily LeetCode problem solutions.
+Welcome to my LeetCode journey! This repo is where I document my daily problem-solving practice. Each solution is crafted with care, focusing on clean code and optimal performance.
 
-## Structure
+## 📂 How It's Organized
 
-Solutions are organized by problem number in the `solutions/` directory.
+All solutions live in the `solutions/` directory, organized by problem number. Each folder contains:
 
-Each solution includes:
-- Problem description
-- Solution code
-- Time and space complexity analysis
+- 📝 **Problem description** with examples and constraints
+- 💻 **Solution code** in Java (sometimes multiple approaches!)
+- ⚡ **Complexity analysis** breaking down time and space usage
+- 💡 **Key insights** and explanations of the approach
 
-## Problems Solved
+## 🎯 Problems Solved
 
-| # | Title | Difficulty | Solution |
-|---|-------|-----------|----------|
-| 9 | Palindrome Number | Easy | [Java](solutions/0009-palindrome-number/Solution.java) |
-| 35 | Search Insert Position | Easy | [Java](solutions/0035-search-insert-position/Solution.java) |
-| 70 | Climbing Stairs | Easy | [Java](solutions/0070-climbing-stairs/Solution.java) |
-| 258 | Add Digits | Easy | [Java](solutions/0258-add-digits/Solution.java) |
-| 704 | Binary Search | Easy | [Java](solutions/0704-binary-search/Solution.java) |
-| 946 | Validate Stack Sequences | Medium | [Java](solutions/0946-validate-stack-sequences/Solution.java) |
-| 1381 | Design a Stack with Increment Operation | Medium | [Java](solutions/1381-design-stack-with-increment-operation/CustomStack.java) |
-| 1441 | Build an Array with Stack Operations | Medium | [Java](solutions/1441-build-array-with-stack-operations/Solution.java) |
+| # | Title | Difficulty | Solution | Topics |
+|---|-------|-----------|----------|---------|
+| 9 | Palindrome Number | 🟢 Easy | [Java](solutions/0009-palindrome-number/Solution.java) | Math |
+| 35 | Search Insert Position | 🟢 Easy | [Java](solutions/0035-search-insert-position/Solution.java) | Binary Search |
+| 70 | Climbing Stairs | 🟢 Easy | [Java](solutions/0070-climbing-stairs/Solution.java) | Dynamic Programming |
+| 258 | Add Digits | 🟢 Easy | [Java](solutions/0258-add-digits/Solution.java) | Math, Number Theory |
+| 704 | Binary Search | 🟢 Easy | [Java](solutions/0704-binary-search/Solution.java) | Binary Search |
+| 946 | Validate Stack Sequences | 🟡 Medium | [Java](solutions/0946-validate-stack-sequences/Solution.java) | Stack, Simulation |
+| 1381 | Design a Stack with Increment Operation | 🟡 Medium | [Java](solutions/1381-design-stack-with-increment-operation/CustomStack.java) | Stack, Design |
+| 1441 | Build an Array with Stack Operations | 🟡 Medium | [Java](solutions/1441-build-array-with-stack-operations/Solution.java) | Stack, Simulation |
 
-## Languages Used
+## 📊 Progress Stats
 
-- Java
+```
+Total Problems: 8
+├─ Easy:   5 problems (62.5%)
+└─ Medium: 3 problems (37.5%)
 
-## Progress
+Topics Covered:
+✓ Math & Number Theory
+✓ Binary Search
+✓ Dynamic Programming
+✓ Stack Operations & Design
+✓ Array Manipulation
+```
 
-Total Problems Solved: 8
+## 💪 Current Focus
+
+Building strong fundamentals across:
+- **Search algorithms** (Binary Search variations)
+- **Stack operations** (Classic and creative uses)
+- **Dynamic Programming** (Optimization problems)
+- **Mathematical insights** (O(1) optimizations)
+
+## 🛠️ Tech Stack
+
+- **Language:** Java
+- **Style:** Clean, well-documented code with detailed comments
+- **Approach:** Multiple solutions when applicable (basic → optimized)
+
+## 🌱 Daily Practice
+
+I add new solutions regularly, exploring different problem types and optimization techniques. Each problem helps build stronger algorithmic thinking!
 
 ---
 
-*Updated daily with new solutions*
+*Last updated: Adding new problems daily!* 🚀

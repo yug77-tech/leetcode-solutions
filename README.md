@@ -18,6 +18,7 @@ All solutions live in the `solutions/` directory, organized by problem number. E
 | 9 | Palindrome Number | 🟢 Easy | [Java](solutions/0009-palindrome-number/Solution.java) | Math |
 | 35 | Search Insert Position | 🟢 Easy | [Java](solutions/0035-search-insert-position/Solution.java) | Binary Search |
 | 70 | Climbing Stairs | 🟢 Easy | [Java](solutions/0070-climbing-stairs/Solution.java) | Dynamic Programming |
+| 96 | Unique Binary Search Trees | 🟡 Medium | [Java](solutions/0096-unique-binary-search-trees/Solution.java) | Math, DP, Catalan Numbers |
 | 258 | Add Digits | 🟢 Easy | [Java](solutions/0258-add-digits/Solution.java) | Math, Number Theory |
 | 704 | Binary Search | 🟢 Easy | [Java](solutions/0704-binary-search/Solution.java) | Binary Search |
 | 946 | Validate Stack Sequences | 🟡 Medium | [Java](solutions/0946-validate-stack-sequences/Solution.java) | Stack, Simulation |
@@ -27,9 +28,9 @@ All solutions live in the `solutions/` directory, organized by problem number. E
 ## 📊 Progress Stats
 
 ```
-Total Problems: 8
-├─ Easy:   5 problems (62.5%)
-└─ Medium: 3 problems (37.5%)
+Total Problems: 9
+├─ Easy:   5 problems (55.6%)
+└─ Medium: 4 problems (44.4%)
 
 Topics Covered:
 ✓ Math & Number Theory
@@ -37,6 +38,7 @@ Topics Covered:
 ✓ Dynamic Programming
 ✓ Stack Operations & Design
 ✓ Array Manipulation
+✓ Catalan Numbers & Combinatorics
 ```
 
 ## 💪 Current Focus

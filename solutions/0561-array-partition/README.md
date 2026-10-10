@@ -57,21 +57,34 @@ Step 3: Sum minimums → 1 + 3 = 4
 
 ## Complexity Analysis
 
-### Optimized Solution (Built-in Sort):
+### All Optimized Solutions (Solution.java & SolutionExplicit.java):
 - **Time Complexity:** O(n log n) - Dominated by sorting
 - **Space Complexity:** O(1) or O(log n) - Depending on sort implementation
 
-### Bubble Sort Solution:
+**Note:** Both optimized versions have identical complexity. The `Math.min()` call in the explicit version adds O(n) operations, which doesn't change the overall O(n log n) time complexity.
+
+### Bubble Sort Solution (SolutionBubbleSort.java):
 - **Time Complexity:** O(n²) - Bubble sort worst/average case
 - **Space Complexity:** O(1) - In-place sorting
 - **Note:** Works but not efficient for large inputs
 
 ## Solution Variants
 
-### 1. Optimized with Built-in Sort (Recommended)
+### 1. Optimized with Built-in Sort (Recommended - Solution.java)
 Uses `Arrays.sort()` for O(n log n) time complexity.
+- Directly sums `nums[i]` (even indices)
+- Most efficient: no redundant operations
+- Time: O(n log n), Space: O(1)
 
-### 2. Bubble Sort Implementation
+### 2. Explicit Math.min() Version (SolutionExplicit.java)
+Same algorithm but uses `Math.min(nums[i], nums[i+1])`.
+- More readable and self-documenting
+- Makes pairing logic explicit
+- Functionally identical after sorting (since nums[i] ≤ nums[i+1])
+- Time: O(n log n), Space: O(1)
+- Trade-off: Slightly more readable but redundant function calls
+
+### 3. Bubble Sort Implementation (SolutionBubbleSort.java)
 Manual bubble sort implementation for educational purposes.
 - Good space complexity (O(1))
 - Poor time complexity (O(n²))

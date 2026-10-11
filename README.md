@@ -19,6 +19,7 @@ All solutions live in the `solutions/` directory, organized by problem number. E
 | 35 | Search Insert Position | 🟢 Easy | [Java](solutions/0035-search-insert-position/Solution.java) | Binary Search |
 | 70 | Climbing Stairs | 🟢 Easy | [Java](solutions/0070-climbing-stairs/Solution.java) | Dynamic Programming |
 | 96 | Unique Binary Search Trees | 🟡 Medium | [Java](solutions/0096-unique-binary-search-trees/Solution.java) | Math, DP, Catalan Numbers |
+| 232 | Implement Queue using Stacks | 🟢 Easy | [Java](solutions/0232-implement-queue-using-stacks/MyQueue.java) | Stack, Queue, Design |
 | 258 | Add Digits | 🟢 Easy | [Java](solutions/0258-add-digits/Solution.java) | Math, Number Theory |
 | 561 | Array Partition | 🟢 Easy | [Java](solutions/0561-array-partition/Solution.java) | Array, Sorting, Greedy |
 | 704 | Binary Search | 🟢 Easy | [Java](solutions/0704-binary-search/Solution.java) | Binary Search |
@@ -29,15 +30,16 @@ All solutions live in the `solutions/` directory, organized by problem number. E
 ## 📊 Progress Stats
 
 ```
-Total Problems: 10
-├─ Easy:   6 problems (60%)
-└─ Medium: 4 problems (40%)
+Total Problems: 11
+├─ Easy:   7 problems (63.6%)
+└─ Medium: 4 problems (36.4%)
 
 Topics Covered:
 ✓ Math & Number Theory
 ✓ Binary Search
 ✓ Dynamic Programming
 ✓ Stack Operations & Design
+✓ Queue Implementation
 ✓ Array Manipulation & Sorting
 ✓ Catalan Numbers & Combinatorics
 ✓ Greedy Algorithms

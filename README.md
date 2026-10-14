@@ -20,6 +20,7 @@ All solutions live in the `solutions/` directory, organized by problem number. E
 | 70 | Climbing Stairs | 🟢 Easy | [Java](solutions/0070-climbing-stairs/Solution.java) | Dynamic Programming |
 | 96 | Unique Binary Search Trees | 🟡 Medium | [Java](solutions/0096-unique-binary-search-trees/Solution.java) | Math, DP, Catalan Numbers |
 | 169 | Majority Element | 🟢 Easy | [Java](solutions/0169-majority-element/Solution.java) | Array, Boyer-Moore Algorithm |
+| 190 | Reverse Bits | 🟢 Easy | [Java](solutions/0190-reverse-bits/Solution.java) | Bit Manipulation |
 | 225 | Implement Stack using Queues | 🟢 Easy | [Java](solutions/0225-implement-stack-using-queues/MyStack.java) | Stack, Queue, Design |
 | 232 | Implement Queue using Stacks | 🟢 Easy | [Java](solutions/0232-implement-queue-using-stacks/MyQueue.java) | Stack, Queue, Design |
 | 258 | Add Digits | 🟢 Easy | [Java](solutions/0258-add-digits/Solution.java) | Math, Number Theory |
@@ -32,9 +33,9 @@ All solutions live in the `solutions/` directory, organized by problem number. E
 ## 📊 Progress Stats
 
 ```
-Total Problems: 13
-├─ Easy:   9 problems (69.2%)
-└─ Medium: 4 problems (30.8%)
+Total Problems: 14
+├─ Easy:   10 problems (71.4%)
+└─ Medium: 4 problems (28.6%)
 
 Topics Covered:
 ✓ Math & Number Theory
@@ -46,6 +47,7 @@ Topics Covered:
 ✓ Catalan Numbers & Combinatorics
 ✓ Greedy Algorithms
 ✓ Boyer-Moore Voting Algorithm
+✓ Bit Manipulation
 ```
 
 ## 💪 Current Focus

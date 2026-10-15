@@ -16,6 +16,7 @@ All solutions live in the `solutions/` directory, organized by problem number. E
 | # | Title | Difficulty | Solution | Topics |
 |---|-------|-----------|----------|---------|
 | 9 | Palindrome Number | 🟢 Easy | [Java](solutions/0009-palindrome-number/Solution.java) | Math |
+| 28 | Find the Index of the First Occurrence in a String | 🟢 Easy | [Java](solutions/0028-find-index-first-occurrence/Solution.java) | String, Two Pointers |
 | 35 | Search Insert Position | 🟢 Easy | [Java](solutions/0035-search-insert-position/Solution.java) | Binary Search |
 | 70 | Climbing Stairs | 🟢 Easy | [Java](solutions/0070-climbing-stairs/Solution.java) | Dynamic Programming |
 | 96 | Unique Binary Search Trees | 🟡 Medium | [Java](solutions/0096-unique-binary-search-trees/Solution.java) | Math, DP, Catalan Numbers |
@@ -33,9 +34,9 @@ All solutions live in the `solutions/` directory, organized by problem number. E
 ## 📊 Progress Stats
 
 ```
-Total Problems: 14
-├─ Easy:   10 problems (71.4%)
-└─ Medium: 4 problems (28.6%)
+Total Problems: 15
+├─ Easy:   11 problems (73.3%)
+└─ Medium: 4 problems (26.7%)
 
 Topics Covered:
 ✓ Math & Number Theory
@@ -48,6 +49,7 @@ Topics Covered:
 ✓ Greedy Algorithms
 ✓ Boyer-Moore Voting Algorithm
 ✓ Bit Manipulation
+✓ String Matching & Manipulation
 ```
 
 ## 💪 Current Focus

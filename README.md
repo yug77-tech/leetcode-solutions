@@ -18,6 +18,7 @@ All solutions live in the `solutions/` directory, organized by problem number. E
 | 9 | Palindrome Number | 🟢 Easy | [Java](solutions/0009-palindrome-number/Solution.java) | Math |
 | 28 | Find the Index of the First Occurrence in a String | 🟢 Easy | [Java](solutions/0028-find-index-first-occurrence/Solution.java) | String, Two Pointers |
 | 35 | Search Insert Position | 🟢 Easy | [Java](solutions/0035-search-insert-position/Solution.java) | Binary Search |
+| 58 | Length of Last Word | 🟢 Easy | [Java](solutions/0058-length-of-last-word/Solution.java) | String, Two Pointers |
 | 70 | Climbing Stairs | 🟢 Easy | [Java](solutions/0070-climbing-stairs/Solution.java) | Dynamic Programming |
 | 96 | Unique Binary Search Trees | 🟡 Medium | [Java](solutions/0096-unique-binary-search-trees/Solution.java) | Math, DP, Catalan Numbers |
 | 169 | Majority Element | 🟢 Easy | [Java](solutions/0169-majority-element/Solution.java) | Array, Boyer-Moore Algorithm |
@@ -34,9 +35,9 @@ All solutions live in the `solutions/` directory, organized by problem number. E
 ## 📊 Progress Stats
 
 ```
-Total Problems: 15
-├─ Easy:   11 problems (73.3%)
-└─ Medium: 4 problems (26.7%)
+Total Problems: 16
+├─ Easy:   12 problems (75%)
+└─ Medium: 4 problems (25%)
 
 Topics Covered:
 ✓ Math & Number Theory
@@ -50,6 +51,7 @@ Topics Covered:
 ✓ Boyer-Moore Voting Algorithm
 ✓ Bit Manipulation
 ✓ String Matching & Manipulation
+✓ Two Pointers
 ```
 
 ## 💪 Current Focus

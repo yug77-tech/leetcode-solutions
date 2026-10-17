@@ -28,6 +28,7 @@ All solutions live in the `solutions/` directory, organized by problem number. E
 | 258 | Add Digits | 🟢 Easy | [Java](solutions/0258-add-digits/Solution.java) | Math, Number Theory |
 | 561 | Array Partition | 🟢 Easy | [Java](solutions/0561-array-partition/Solution.java) | Array, Sorting, Greedy |
 | 704 | Binary Search | 🟢 Easy | [Java](solutions/0704-binary-search/Solution.java) | Binary Search |
+| 771 | Jewels and Stones | 🟢 Easy | [Java](solutions/0771-jewels-and-stones/Solution.java) | Hash Table, String |
 | 946 | Validate Stack Sequences | 🟡 Medium | [Java](solutions/0946-validate-stack-sequences/Solution.java) | Stack, Simulation |
 | 1381 | Design a Stack with Increment Operation | 🟡 Medium | [Java](solutions/1381-design-stack-with-increment-operation/CustomStack.java) | Stack, Design |
 | 1441 | Build an Array with Stack Operations | 🟡 Medium | [Java](solutions/1441-build-array-with-stack-operations/Solution.java) | Stack, Simulation |
@@ -35,9 +36,9 @@ All solutions live in the `solutions/` directory, organized by problem number. E
 ## 📊 Progress Stats
 
 ```
-Total Problems: 16
-├─ Easy:   12 problems (75%)
-└─ Medium: 4 problems (25%)
+Total Problems: 17
+├─ Easy:   13 problems (76.5%)
+└─ Medium: 4 problems (23.5%)
 
 Topics Covered:
 ✓ Math & Number Theory
@@ -52,6 +53,7 @@ Topics Covered:
 ✓ Bit Manipulation
 ✓ String Matching & Manipulation
 ✓ Two Pointers
+✓ Hash Table & Hash Set
 ```
 
 ## 💪 Current Focus

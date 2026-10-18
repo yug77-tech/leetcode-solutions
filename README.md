@@ -21,6 +21,7 @@ All solutions live in the `solutions/` directory, organized by problem number. E
 | 58 | Length of Last Word | 🟢 Easy | [Java](solutions/0058-length-of-last-word/Solution.java) | String, Two Pointers |
 | 70 | Climbing Stairs | 🟢 Easy | [Java](solutions/0070-climbing-stairs/Solution.java) | Dynamic Programming |
 | 96 | Unique Binary Search Trees | 🟡 Medium | [Java](solutions/0096-unique-binary-search-trees/Solution.java) | Math, DP, Catalan Numbers |
+| 121 | Best Time to Buy and Sell Stock | 🟢 Easy | [Java](solutions/0121-best-time-buy-sell-stock/Solution.java) | Array, DP, Greedy |
 | 169 | Majority Element | 🟢 Easy | [Java](solutions/0169-majority-element/Solution.java) | Array, Boyer-Moore Algorithm |
 | 190 | Reverse Bits | 🟢 Easy | [Java](solutions/0190-reverse-bits/Solution.java) | Bit Manipulation |
 | 225 | Implement Stack using Queues | 🟢 Easy | [Java](solutions/0225-implement-stack-using-queues/MyStack.java) | Stack, Queue, Design |
@@ -36,9 +37,9 @@ All solutions live in the `solutions/` directory, organized by problem number. E
 ## 📊 Progress Stats
 
 ```
-Total Problems: 17
-├─ Easy:   13 problems (76.5%)
-└─ Medium: 4 problems (23.5%)
+Total Problems: 18
+├─ Easy:   14 problems (77.8%)
+└─ Medium: 4 problems (22.2%)
 
 Topics Covered:
 ✓ Math & Number Theory

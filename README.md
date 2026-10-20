@@ -23,6 +23,7 @@ All solutions live in the `solutions/` directory, organized by problem number. E
 | 96 | Unique Binary Search Trees | 🟡 Medium | [Java](solutions/0096-unique-binary-search-trees/Solution.java) | Math, DP, Catalan Numbers |
 | 121 | Best Time to Buy and Sell Stock | 🟢 Easy | [Java](solutions/0121-best-time-buy-sell-stock/Solution.java) | Array, DP, Greedy |
 | 122 | Best Time to Buy and Sell Stock II | 🟡 Medium | [Java](solutions/0122-best-time-buy-sell-stock-ii/Solution.java) | Array, DP, Greedy |
+| 123 | Best Time to Buy and Sell Stock III | 🔴 Hard | [Java](solutions/0123-best-time-buy-sell-stock-iii/Solution.java) | Array, DP, State Machine |
 | 169 | Majority Element | 🟢 Easy | [Java](solutions/0169-majority-element/Solution.java) | Array, Boyer-Moore Algorithm |
 | 190 | Reverse Bits | 🟢 Easy | [Java](solutions/0190-reverse-bits/Solution.java) | Bit Manipulation |
 | 225 | Implement Stack using Queues | 🟢 Easy | [Java](solutions/0225-implement-stack-using-queues/MyStack.java) | Stack, Queue, Design |
@@ -38,14 +39,15 @@ All solutions live in the `solutions/` directory, organized by problem number. E
 ## 📊 Progress Stats
 
 ```
-Total Problems: 19
-├─ Easy:   14 problems (73.7%)
-└─ Medium: 5 problems (26.3%)
+Total Problems: 20
+├─ Easy:   14 problems (70%)
+├─ Medium: 5 problems (25%)
+└─ Hard:   1 problem (5%)
 
 Topics Covered:
 ✓ Math & Number Theory
 ✓ Binary Search
-✓ Dynamic Programming
+✓ Dynamic Programming (State Machine)
 ✓ Stack & Queue Operations
 ✓ Data Structure Design (Stack ↔ Queue conversions)
 ✓ Array Manipulation & Sorting

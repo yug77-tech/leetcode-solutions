@@ -16,6 +16,7 @@ All solutions live in the `solutions/` directory, organized by problem number. E
 | # | Title | Difficulty | Solution | Topics |
 |---|-------|-----------|----------|---------|
 | 9 | Palindrome Number | 🟢 Easy | [Java](solutions/0009-palindrome-number/Solution.java) | Math |
+| 24 | Swap Nodes in Pairs | 🟡 Medium | [Java](solutions/0024-swap-nodes-in-pairs/Solution.java) | Linked List, Recursion |
 | 28 | Find the Index of the First Occurrence in a String | 🟢 Easy | [Java](solutions/0028-find-index-first-occurrence/Solution.java) | String, Two Pointers |
 | 35 | Search Insert Position | 🟢 Easy | [Java](solutions/0035-search-insert-position/Solution.java) | Binary Search |
 | 58 | Length of Last Word | 🟢 Easy | [Java](solutions/0058-length-of-last-word/Solution.java) | String, Two Pointers |
@@ -39,10 +40,10 @@ All solutions live in the `solutions/` directory, organized by problem number. E
 ## 📊 Progress Stats
 
 ```
-Total Problems: 20
-├─ Easy:   14 problems (70%)
-├─ Medium: 5 problems (25%)
-└─ Hard:   1 problem (5%)
+Total Problems: 21
+├─ Easy:   14 problems (66.7%)
+├─ Medium: 6 problems (28.6%)
+└─ Hard:   1 problem (4.8%)
 
 Topics Covered:
 ✓ Math & Number Theory
@@ -58,6 +59,7 @@ Topics Covered:
 ✓ String Matching & Manipulation
 ✓ Two Pointers
 ✓ Hash Table & Hash Set
+✓ Linked List Manipulation
 ```
 
 ## 💪 Current Focus

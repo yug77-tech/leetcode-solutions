@@ -17,6 +17,7 @@ All solutions live in the `solutions/` directory, organized by problem number. E
 |---|-------|-----------|----------|---------|
 | 9 | Palindrome Number | 🟢 Easy | [Java](solutions/0009-palindrome-number/Solution.java) | Math |
 | 14 | Longest Common Prefix | 🟢 Easy | [Java](solutions/0014-longest-common-prefix/Solution.java) | String |
+| 20 | Valid Parentheses | 🟢 Easy | [Java](solutions/0020-valid-parentheses/Solution.java) | String, Stack |
 | 24 | Swap Nodes in Pairs | 🟡 Medium | [Java](solutions/0024-swap-nodes-in-pairs/Solution.java) | Linked List, Recursion |
 | 28 | Find the Index of the First Occurrence in a String | 🟢 Easy | [Java](solutions/0028-find-index-first-occurrence/Solution.java) | String, Two Pointers |
 | 35 | Search Insert Position | 🟢 Easy | [Java](solutions/0035-search-insert-position/Solution.java) | Binary Search |
@@ -41,10 +42,10 @@ All solutions live in the `solutions/` directory, organized by problem number. E
 ## 📊 Progress Stats
 
 ```
-Total Problems: 22
-├─ Easy:   15 problems (68.2%)
-├─ Medium: 6 problems (27.3%)
-└─ Hard:   1 problem (4.5%)
+Total Problems: 23
+├─ Easy:   16 problems (69.6%)
+├─ Medium: 6 problems (26.1%)
+└─ Hard:   1 problem (4.3%)
 
 Topics Covered:
 ✓ Math & Number Theory

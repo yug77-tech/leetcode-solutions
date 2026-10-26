@@ -23,6 +23,7 @@ All solutions live in the `solutions/` directory, organized by problem number. E
 | 35 | Search Insert Position | 🟢 Easy | [Java](solutions/0035-search-insert-position/Solution.java) | Binary Search |
 | 58 | Length of Last Word | 🟢 Easy | [Java](solutions/0058-length-of-last-word/Solution.java) | String, Two Pointers |
 | 70 | Climbing Stairs | 🟢 Easy | [Java](solutions/0070-climbing-stairs/Solution.java) | Dynamic Programming |
+| 75 | Sort Colors | 🟡 Medium | [Java](solutions/0075-sort-colors/Solution.java) | Array, Two Pointers, Sorting |
 | 96 | Unique Binary Search Trees | 🟡 Medium | [Java](solutions/0096-unique-binary-search-trees/Solution.java) | Math, DP, Catalan Numbers |
 | 121 | Best Time to Buy and Sell Stock | 🟢 Easy | [Java](solutions/0121-best-time-buy-sell-stock/Solution.java) | Array, DP, Greedy |
 | 122 | Best Time to Buy and Sell Stock II | 🟡 Medium | [Java](solutions/0122-best-time-buy-sell-stock-ii/Solution.java) | Array, DP, Greedy |
@@ -42,10 +43,10 @@ All solutions live in the `solutions/` directory, organized by problem number. E
 ## 📊 Progress Stats
 
 ```
-Total Problems: 23
-├─ Easy:   16 problems (69.6%)
-├─ Medium: 6 problems (26.1%)
-└─ Hard:   1 problem (4.3%)
+Total Problems: 24
+├─ Easy:   16 problems (66.7%)
+├─ Medium: 7 problems (29.2%)
+└─ Hard:   1 problem (4.2%)
 
 Topics Covered:
 ✓ Math & Number Theory

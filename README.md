@@ -22,6 +22,7 @@ All solutions live in the `solutions/` directory, organized by problem number. E
 | 28 | Find the Index of the First Occurrence in a String | 🟢 Easy | [Java](solutions/0028-find-index-first-occurrence/Solution.java) | String, Two Pointers |
 | 35 | Search Insert Position | 🟢 Easy | [Java](solutions/0035-search-insert-position/Solution.java) | Binary Search |
 | 58 | Length of Last Word | 🟢 Easy | [Java](solutions/0058-length-of-last-word/Solution.java) | String, Two Pointers |
+| 66 | Plus One | 🟢 Easy | [Java](solutions/0066-plus-one/Solution.java) | Array, Math |
 | 70 | Climbing Stairs | 🟢 Easy | [Java](solutions/0070-climbing-stairs/Solution.java) | Dynamic Programming |
 | 75 | Sort Colors | 🟡 Medium | [Java](solutions/0075-sort-colors/Solution.java) | Array, Two Pointers, Sorting |
 | 96 | Unique Binary Search Trees | 🟡 Medium | [Java](solutions/0096-unique-binary-search-trees/Solution.java) | Math, DP, Catalan Numbers |
@@ -43,10 +44,10 @@ All solutions live in the `solutions/` directory, organized by problem number. E
 ## 📊 Progress Stats
 
 ```
-Total Problems: 24
-├─ Easy:   16 problems (66.7%)
-├─ Medium: 7 problems (29.2%)
-└─ Hard:   1 problem (4.2%)
+Total Problems: 25
+├─ Easy:   17 problems (68.0%)
+├─ Medium: 7 problems (28.0%)
+└─ Hard:   1 problem (4.0%)
 
 Topics Covered:
 ✓ Math & Number Theory

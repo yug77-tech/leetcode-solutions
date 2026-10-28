@@ -38,16 +38,17 @@ All solutions live in the `solutions/` directory, organized by problem number. E
 | 704 | Binary Search | 🟢 Easy | [Java](solutions/0704-binary-search/Solution.java) | Binary Search |
 | 771 | Jewels and Stones | 🟢 Easy | [Java](solutions/0771-jewels-and-stones/Solution.java) | Hash Table, String |
 | 946 | Validate Stack Sequences | 🟡 Medium | [Java](solutions/0946-validate-stack-sequences/Solution.java) | Stack, Simulation |
+| 1122 | Relative Sort Array | 🟢 Easy | [Java](solutions/1122-relative-sort-array/Solution.java) | Array, Hash Table, Sorting |
 | 1381 | Design a Stack with Increment Operation | 🟡 Medium | [Java](solutions/1381-design-stack-with-increment-operation/CustomStack.java) | Stack, Design |
 | 1441 | Build an Array with Stack Operations | 🟡 Medium | [Java](solutions/1441-build-array-with-stack-operations/Solution.java) | Stack, Simulation |
 
 ## 📊 Progress Stats
 
 ```
-Total Problems: 25
-├─ Easy:   17 problems (68.0%)
-├─ Medium: 7 problems (28.0%)
-└─ Hard:   1 problem (4.0%)
+Total Problems: 26
+├─ Easy:   18 problems (69.2%)
+├─ Medium: 7 problems (26.9%)
+└─ Hard:   1 problem (3.8%)
 
 Topics Covered:
 ✓ Math & Number Theory

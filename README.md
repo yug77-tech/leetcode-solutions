@@ -21,6 +21,7 @@ All solutions live in the `solutions/` directory, organized by problem number. E
 | 24 | Swap Nodes in Pairs | 🟡 Medium | [Java](solutions/0024-swap-nodes-in-pairs/Solution.java) | Linked List, Recursion |
 | 28 | Find the Index of the First Occurrence in a String | 🟢 Easy | [Java](solutions/0028-find-index-first-occurrence/Solution.java) | String, Two Pointers |
 | 35 | Search Insert Position | 🟢 Easy | [Java](solutions/0035-search-insert-position/Solution.java) | Binary Search |
+| 46 | Permutations | 🟡 Medium | [Java](solutions/0046-permutations/Solution.java) | Array, Backtracking |
 | 58 | Length of Last Word | 🟢 Easy | [Java](solutions/0058-length-of-last-word/Solution.java) | String, Two Pointers |
 | 66 | Plus One | 🟢 Easy | [Java](solutions/0066-plus-one/Solution.java) | Array, Math |
 | 70 | Climbing Stairs | 🟢 Easy | [Java](solutions/0070-climbing-stairs/Solution.java) | Dynamic Programming |
@@ -45,10 +46,10 @@ All solutions live in the `solutions/` directory, organized by problem number. E
 ## 📊 Progress Stats
 
 ```
-Total Problems: 26
-├─ Easy:   18 problems (69.2%)
-├─ Medium: 7 problems (26.9%)
-└─ Hard:   1 problem (3.8%)
+Total Problems: 27
+├─ Easy:   18 problems (66.7%)
+├─ Medium: 8 problems (29.6%)
+└─ Hard:   1 problem (3.7%)
 
 Topics Covered:
 ✓ Math & Number Theory

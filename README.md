@@ -26,6 +26,7 @@ All solutions live in the `solutions/` directory, organized by problem number. E
 | 66 | Plus One | 🟢 Easy | [Java](solutions/0066-plus-one/Solution.java) | Array, Math |
 | 70 | Climbing Stairs | 🟢 Easy | [Java](solutions/0070-climbing-stairs/Solution.java) | Dynamic Programming |
 | 75 | Sort Colors | 🟡 Medium | [Java](solutions/0075-sort-colors/Solution.java) | Array, Two Pointers, Sorting |
+| 78 | Subsets | 🟡 Medium | [Java](solutions/0078-subsets/Solution.java) | Array, Backtracking, Bit Manipulation |
 | 96 | Unique Binary Search Trees | 🟡 Medium | [Java](solutions/0096-unique-binary-search-trees/Solution.java) | Math, DP, Catalan Numbers |
 | 121 | Best Time to Buy and Sell Stock | 🟢 Easy | [Java](solutions/0121-best-time-buy-sell-stock/Solution.java) | Array, DP, Greedy |
 | 122 | Best Time to Buy and Sell Stock II | 🟡 Medium | [Java](solutions/0122-best-time-buy-sell-stock-ii/Solution.java) | Array, DP, Greedy |
@@ -46,10 +47,10 @@ All solutions live in the `solutions/` directory, organized by problem number. E
 ## 📊 Progress Stats
 
 ```
-Total Problems: 27
-├─ Easy:   18 problems (66.7%)
-├─ Medium: 8 problems (29.6%)
-└─ Hard:   1 problem (3.7%)
+Total Problems: 28
+├─ Easy:   18 problems (64.3%)
+├─ Medium: 9 problems (32.1%)
+└─ Hard:   1 problem (3.6%)
 
 Topics Covered:
 ✓ Math & Number Theory

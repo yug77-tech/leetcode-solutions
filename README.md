@@ -28,6 +28,7 @@ All solutions live in the `solutions/` directory, organized by problem number. E
 | 75 | Sort Colors | 🟡 Medium | [Java](solutions/0075-sort-colors/Solution.java) | Array, Two Pointers, Sorting |
 | 78 | Subsets | 🟡 Medium | [Java](solutions/0078-subsets/Solution.java) | Array, Backtracking, Bit Manipulation |
 | 96 | Unique Binary Search Trees | 🟡 Medium | [Java](solutions/0096-unique-binary-search-trees/Solution.java) | Math, DP, Catalan Numbers |
+| 108 | Convert Sorted Array to Binary Search Tree | 🟢 Easy | [Java](solutions/0108-convert-sorted-array-to-binary-search-tree/Solution.java) | Array, Divide and Conquer, Tree, BST |
 | 121 | Best Time to Buy and Sell Stock | 🟢 Easy | [Java](solutions/0121-best-time-buy-sell-stock/Solution.java) | Array, DP, Greedy |
 | 122 | Best Time to Buy and Sell Stock II | 🟡 Medium | [Java](solutions/0122-best-time-buy-sell-stock-ii/Solution.java) | Array, DP, Greedy |
 | 123 | Best Time to Buy and Sell Stock III | 🔴 Hard | [Java](solutions/0123-best-time-buy-sell-stock-iii/Solution.java) | Array, DP, State Machine |
@@ -47,10 +48,10 @@ All solutions live in the `solutions/` directory, organized by problem number. E
 ## 📊 Progress Stats
 
 ```
-Total Problems: 28
-├─ Easy:   18 problems (64.3%)
-├─ Medium: 9 problems (32.1%)
-└─ Hard:   1 problem (3.6%)
+Total Problems: 29
+├─ Easy:   19 problems (65.5%)
+├─ Medium: 9 problems (31.0%)
+└─ Hard:   1 problem (3.4%)
 
 Topics Covered:
 ✓ Math & Number Theory

@@ -38,6 +38,7 @@ All solutions live in the `solutions/` directory, organized by problem number. E
 | 232 | Implement Queue using Stacks | 🟢 Easy | [Java](solutions/0232-implement-queue-using-stacks/MyQueue.java) | Stack, Queue, Design |
 | 258 | Add Digits | 🟢 Easy | [Java](solutions/0258-add-digits/Solution.java) | Math, Number Theory |
 | 453 | Minimum Moves to Equal Array Elements | 🟡 Medium | [Java](solutions/0453-minimum-moves-to-equal-array-elements/Solution.java) | Array, Math |
+| 462 | Minimum Moves to Equal Array Elements II | 🟡 Medium | [Java](solutions/0462-minimum-moves-to-equal-array-elements-ii/Solution.java) | Array, Math, Sorting |
 | 561 | Array Partition | 🟢 Easy | [Java](solutions/0561-array-partition/Solution.java) | Array, Sorting, Greedy |
 | 704 | Binary Search | 🟢 Easy | [Java](solutions/0704-binary-search/Solution.java) | Binary Search |
 | 771 | Jewels and Stones | 🟢 Easy | [Java](solutions/0771-jewels-and-stones/Solution.java) | Hash Table, String |
@@ -49,10 +50,10 @@ All solutions live in the `solutions/` directory, organized by problem number. E
 ## 📊 Progress Stats
 
 ```
-Total Problems: 30
-├─ Easy:   19 problems (63.3%)
-├─ Medium: 10 problems (33.3%)
-└─ Hard:   1 problem (3.3%)
+Total Problems: 31
+├─ Easy:   19 problems (61.3%)
+├─ Medium: 11 problems (35.5%)
+└─ Hard:   1 problem (3.2%)
 
 Topics Covered:
 ✓ Math & Number Theory

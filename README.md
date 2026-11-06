@@ -46,15 +46,16 @@ All solutions live in the `solutions/` directory, organized by problem number. E
 | 1122 | Relative Sort Array | 🟢 Easy | [Java](solutions/1122-relative-sort-array/Solution.java) | Array, Hash Table, Sorting |
 | 1381 | Design a Stack with Increment Operation | 🟡 Medium | [Java](solutions/1381-design-stack-with-increment-operation/CustomStack.java) | Stack, Design |
 | 1441 | Build an Array with Stack Operations | 🟡 Medium | [Java](solutions/1441-build-array-with-stack-operations/Solution.java) | Stack, Simulation |
+| 2747 | Count Zero Request Servers | 🟡 Medium | [Java](solutions/2747-count-zero-request-servers/Solution.java) | Array, Hash Table, Sliding Window, Sorting |
 | 3736 | Minimum Moves to Equal Array Elements III | 🟢 Easy | [Java](solutions/3736-minimum-moves-to-equal-array-elements-iii/Solution.java) | Array, Math, Greedy |
 
 ## 📊 Progress Stats
 
 ```
-Total Problems: 32
-├─ Easy:   20 problems (62.5%)
-├─ Medium: 11 problems (34.4%)
-└─ Hard:   1 problem (3.1%)
+Total Problems: 33
+├─ Easy:   20 problems (60.6%)
+├─ Medium: 12 problems (36.4%)
+└─ Hard:   1 problem (3.0%)
 
 Topics Covered:
 ✓ Math & Number Theory

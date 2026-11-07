@@ -37,6 +37,7 @@ All solutions live in the `solutions/` directory, organized by problem number. E
 | 225 | Implement Stack using Queues | 🟢 Easy | [Java](solutions/0225-implement-stack-using-queues/MyStack.java) | Stack, Queue, Design |
 | 232 | Implement Queue using Stacks | 🟢 Easy | [Java](solutions/0232-implement-queue-using-stacks/MyQueue.java) | Stack, Queue, Design |
 | 258 | Add Digits | 🟢 Easy | [Java](solutions/0258-add-digits/Solution.java) | Math, Number Theory |
+| 448 | Find All Numbers Disappeared in an Array | 🟢 Easy | [Java](solutions/0448-find-all-numbers-disappeared-in-an-array/Solution.java) | Array, Hash Table |
 | 453 | Minimum Moves to Equal Array Elements | 🟡 Medium | [Java](solutions/0453-minimum-moves-to-equal-array-elements/Solution.java) | Array, Math |
 | 462 | Minimum Moves to Equal Array Elements II | 🟡 Medium | [Java](solutions/0462-minimum-moves-to-equal-array-elements-ii/Solution.java) | Array, Math, Sorting |
 | 561 | Array Partition | 🟢 Easy | [Java](solutions/0561-array-partition/Solution.java) | Array, Sorting, Greedy |
@@ -52,10 +53,10 @@ All solutions live in the `solutions/` directory, organized by problem number. E
 ## 📊 Progress Stats
 
 ```
-Total Problems: 33
-├─ Easy:   20 problems (60.6%)
-├─ Medium: 12 problems (36.4%)
-└─ Hard:   1 problem (3.0%)
+Total Problems: 34
+├─ Easy:   21 problems (61.8%)
+├─ Medium: 12 problems (35.3%)
+└─ Hard:   1 problem (2.9%)
 
 Topics Covered:
 ✓ Math & Number Theory

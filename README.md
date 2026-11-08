@@ -45,6 +45,7 @@ All solutions live in the `solutions/` directory, organized by problem number. E
 | 771 | Jewels and Stones | 🟢 Easy | [Java](solutions/0771-jewels-and-stones/Solution.java) | Hash Table, String |
 | 946 | Validate Stack Sequences | 🟡 Medium | [Java](solutions/0946-validate-stack-sequences/Solution.java) | Stack, Simulation |
 | 1122 | Relative Sort Array | 🟢 Easy | [Java](solutions/1122-relative-sort-array/Solution.java) | Array, Hash Table, Sorting |
+| 1267 | Count Servers that Communicate | 🟡 Medium | [Java](solutions/1267-count-servers-that-communicate/Solution.java) | Array, Counting |
 | 1381 | Design a Stack with Increment Operation | 🟡 Medium | [Java](solutions/1381-design-stack-with-increment-operation/CustomStack.java) | Stack, Design |
 | 1441 | Build an Array with Stack Operations | 🟡 Medium | [Java](solutions/1441-build-array-with-stack-operations/Solution.java) | Stack, Simulation |
 | 2747 | Count Zero Request Servers | 🟡 Medium | [Java](solutions/2747-count-zero-request-servers/Solution.java) | Array, Hash Table, Sliding Window, Sorting |
@@ -53,9 +54,9 @@ All solutions live in the `solutions/` directory, organized by problem number. E
 ## 📊 Progress Stats
 
 ```
-Total Problems: 34
-├─ Easy:   21 problems (61.8%)
-├─ Medium: 12 problems (35.3%)
+Total Problems: 35
+├─ Easy:   21 problems (60.0%)
+├─ Medium: 13 problems (37.1%)
 └─ Hard:   1 problem (2.9%)
 
 Topics Covered:

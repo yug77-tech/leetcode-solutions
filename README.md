@@ -41,6 +41,7 @@ All solutions live in the `solutions/` directory, organized by problem number. E
 | 453 | Minimum Moves to Equal Array Elements | 🟡 Medium | [Java](solutions/0453-minimum-moves-to-equal-array-elements/Solution.java) | Array, Math |
 | 462 | Minimum Moves to Equal Array Elements II | 🟡 Medium | [Java](solutions/0462-minimum-moves-to-equal-array-elements-ii/Solution.java) | Array, Math, Sorting |
 | 561 | Array Partition | 🟢 Easy | [Java](solutions/0561-array-partition/Solution.java) | Array, Sorting, Greedy |
+| 674 | Longest Continuous Increasing Subsequence | 🟢 Easy | [Java](solutions/0674-longest-continuous-increasing-subsequence/Solution.java) | Array, Greedy |
 | 704 | Binary Search | 🟢 Easy | [Java](solutions/0704-binary-search/Solution.java) | Binary Search |
 | 733 | Flood Fill | 🟢 Easy | [Java](solutions/0733-flood-fill/Solution.java) | Array, DFS, BFS, Matrix |
 | 771 | Jewels and Stones | 🟢 Easy | [Java](solutions/0771-jewels-and-stones/Solution.java) | Hash Table, String |
@@ -55,10 +56,10 @@ All solutions live in the `solutions/` directory, organized by problem number. E
 ## 📊 Progress Stats
 
 ```
-Total Problems: 36
-├─ Easy:   22 problems (61.1%)
-├─ Medium: 13 problems (36.1%)
-└─ Hard:   1 problem (2.8%)
+Total Problems: 37
+├─ Easy:   23 problems (62.2%)
+├─ Medium: 13 problems (35.1%)
+└─ Hard:   1 problem (2.7%)
 
 Topics Covered:
 ✓ Math & Number Theory

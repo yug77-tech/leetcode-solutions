@@ -30,6 +30,7 @@ All solutions live in the `solutions/` directory, organized by problem number. E
 | 78 | Subsets | 🟡 Medium | [Java](solutions/0078-subsets/Solution.java) | Array, Backtracking, Bit Manipulation |
 | 96 | Unique Binary Search Trees | 🟡 Medium | [Java](solutions/0096-unique-binary-search-trees/Solution.java) | Math, DP, Catalan Numbers |
 | 108 | Convert Sorted Array to Binary Search Tree | 🟢 Easy | [Java](solutions/0108-convert-sorted-array-to-binary-search-tree/Solution.java) | Array, Divide and Conquer, Tree, BST |
+| 114 | Flatten Binary Tree to Linked List | 🟡 Medium | [Java](solutions/0114-flatten-binary-tree-to-linked-list/Solution.java) | Tree, Linked List, DFS, Binary Tree |
 | 121 | Best Time to Buy and Sell Stock | 🟢 Easy | [Java](solutions/0121-best-time-buy-sell-stock/Solution.java) | Array, DP, Greedy |
 | 122 | Best Time to Buy and Sell Stock II | 🟡 Medium | [Java](solutions/0122-best-time-buy-sell-stock-ii/Solution.java) | Array, DP, Greedy |
 | 123 | Best Time to Buy and Sell Stock III | 🔴 Hard | [Java](solutions/0123-best-time-buy-sell-stock-iii/Solution.java) | Array, DP, State Machine |
@@ -57,9 +58,9 @@ All solutions live in the `solutions/` directory, organized by problem number. E
 ## 📊 Progress Stats
 
 ```
-Total Problems: 38
-├─ Easy:   23 problems (60.5%)
-├─ Medium: 14 problems (36.8%)
+Total Problems: 39
+├─ Easy:   23 problems (59.0%)
+├─ Medium: 15 problems (38.5%)
 └─ Hard:   1 problem (2.6%)
 
 Topics Covered:
